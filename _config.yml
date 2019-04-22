@@ -1,6 +1,1 @@
-url:      "https://duc-de-bentley.github.io"
-lsi:      false
-exclude:   [CNAME, README.md]
-
-#Build settings
-permalink: /about/
+permalink: /about.html/
