@@ -3,4 +3,4 @@ lsi:      false
 exclude:   [CNAME, README.md]
 
 #Build settings
-permalink: pretty
+permalink: /about/
