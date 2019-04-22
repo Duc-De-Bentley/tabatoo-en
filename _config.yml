@@ -1,1 +1,6 @@
+url:      "https://duc-de-bentley.github.io"
+lsi:      false
+exclue:   [CNAME, README.md]
+
+#Build settings
 permalink: pretty
