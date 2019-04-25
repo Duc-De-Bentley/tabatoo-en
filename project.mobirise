@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-en",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -22,7 +22,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "TABATOO - Home",
+        "title": "TABATOO GPS - Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -146,9 +146,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina, BP 3698<br>\nNouakchott, Mauritanie",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 00 00 00<br>Monday - Saturday 08:00 - 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 00 00 00</li><li>Monday - Saturday 08:00 - 18:00</li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -180,7 +180,7 @@
     },
     "features.html": {
       "settings": {
-        "title": "TABATOO - Features",
+        "title": "TABATOO GPS - Features",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -371,9 +371,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina, BP 3698<br>\nNouakchott, Mauritanie",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 00 00 00<br>Monday - Saturday 08:00 - 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 00 00 00</li><li>Monday - Saturday 08:00 - 18:00</li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -406,7 +406,7 @@
     "about.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "TABATOO - About",
+        "title": "TABATOO GPS - About",
         "order": 2
       },
       "components": [
@@ -471,7 +471,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/apple-close-up-electronics-193004-1280x854.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/black-cellphone-contemporary-955402-2000x1335.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -479,7 +479,7 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -506,7 +506,7 @@
           "_anchor": "header3-1m"
         },
         {
-          "text": "<p>TABATOO GPS SOLUTIONS is high quality tracking and fleet management software developed by a team of professional software and hardware engineers. As one of the leading developers of GPS tracking and fleet management software solutions in Mauritania, TABATOO GPS SOLUTIONS software was developed in 2019 by a team of professional engineers. The company was founded by the current CEO Fousseynou COULIBALY.</p><p>TABATOO GPS SOLUTIONS has already positioned itself as the Mauritanian leading GPS  tracking software firm and is already linked to the implementation of GPS trackers for many of the Mauritanian Businesses.</p><p>Contact our team for an immediate consultation and let us show you how TABATOO GPS SOLUTION can provide the dedicated tracking solutions you need today.</p>",
+          "text": "<p><b>TABATOO GPS SOLUTIONS</b> is high quality tracking and fleet management software developed by a team of professional software and hardware engineers. As one of the leading developers of GPS tracking and fleet management software solutions in Mauritania, <b>TABATOO GPS SOLUTIONS</b> software was developed in 2019 by a team of professional engineers. The company was founded by the current CEO Fousseynou COULIBALY.</p><p><b>TABATOO GPS SOLUTIONS</b> has already positioned itself as the Mauritanian leading GPS  tracking solutions firm and is already linked to the implementation of GPS trackers for many of the Mauritanian Businesses.</p><p>Contact our team for an immediate consultation and let us show you how <b>TABATOO GPS SOLUTIONS</b> can provide the dedicated tracking solutions you need today.</p>",
           "_tags": [
             "Theme"
           ],
@@ -549,9 +549,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina, BP 3698<br>\nNouakchott, Mauritanie",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 00 00 00<br>Monday - Saturday 08:00 - 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 00 00 00</li><li>Monday - Saturday 08:00 - 18:00</li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -584,7 +584,7 @@
     "solutions.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "TABATOO - Solutions",
+        "title": "TABATOO GPS - Solutions",
         "order": 1
       },
       "components": [
@@ -1132,9 +1132,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina, BP 3698<br>\nNouakchott, Mauritanie",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 00 00 00<br>Monday - Saturday 08:00 - 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 00 00 00</li><li>Monday - Saturday 08:00 - 18:00</li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
           "_tags": [
             "Theme"
           ],
