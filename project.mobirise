@@ -14,14 +14,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 69,
+    "uniqCompNum": 65,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-transparent-128x128.png",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146428403-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-146428403-1');\r\n</script>",
     "siteUrl": "https://www.tabatoo-gps.com",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /administrator/\nDisallow: /bin/\nDisallow: /cache/\nDisallow: /cli/\nDisallow: /components/\nDisallow: /includes/\nDisallow: /installation/\nDisallow: /language/\nDisallow: /layouts/\nDisallow: /libraries/\nDisallow: /logs/\nDisallow: /modules/\nDisallow: /plugins/\nDisallow: /support/\nDisallow: /tmp/\nUser-agent: ClearWebStats\nDisallow: /\nUser-agent: CuteStat\nDisallow: /\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /administrator/\nDisallow: /bin/\nDisallow: /cache/\nDisallow: /cli/\nDisallow: /components/\nDisallow: /includes/\nDisallow: /installation/\nDisallow: /language/\nDisallow: /layouts/\nDisallow: /libraries/\nDisallow: /logs/\nDisallow: /modules/\nDisallow: /plugins/\nDisallow: /support/\nDisallow: /tmp/\nUser-agent: ClearWebStats\nDisallow: /\nUser-agent: CuteStat\nDisallow: /",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
@@ -411,7 +411,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "TABATOO GPS SOLUTIONS is high quality tracking and fleet management software developed by a team of professional software and hardware Mauritanian Engineers. The company is one of the leading developers of GPS tracking and fleet management software solutions in Mauritania. \n\nTABATOO GPS SOLUTIONS software was developed in 2019 by a team of professional and passionate Engineers amongst them Fousseynou COULIBALY who is the current CEO and the company founder.\n\nThe name TABATOO is inspired by the Soninke language, a language commonly spoken in Mauritania. TABATOO literally means \"footprints\".",
+        "meta_descr": "TABATOO GPS SOLUTIONS is high quality tracking and fleet management software developed by a team of professional software and hardware Mauritanian Engineers. The company is one of the leading developers of GPS tracking and fleet management software solutions in Mauritania. \n\nTABATOO GPS SOLUTIONS software was developed in 2019 by a team of professional and passionate Engineers amongst them Fousseynou COULIBALY who is the current CEO and the company founder.",
         "title": "TABATOO GPS - About",
         "order": 2
       },
@@ -653,7 +653,7 @@
     },
     "solutions.html": {
       "settings": {
-        "meta_descr": "Contact our team for an immediate consultation and let us show you how TABATOO GPS SOLUTIONS can provide the dedicated tracking solutions you need today.\n",
+        "meta_descr": "Contact our team for an immediate consultation and let us show you how TABATOO GPS SOLUTIONS can provide the dedicated tracking solutions you need today.",
         "title": "TABATOO GPS - Solutions",
         "order": 1
       },
@@ -1084,7 +1084,7 @@
     },
     "info.html": {
       "settings": {
-        "meta_descr": "TABATOO GPS SOLUTIONS is high quality tracking and fleet management software developed by a team of professional software and hardware Mauritanian Engineers. The company is one of the leading developers of GPS tracking and fleet management software solutions in Mauritania. ",
+        "meta_descr": "The name TABATOO is inspired by the Soninke language, a language commonly spoken in Mauritania. TABATOO literally means \"footprints\".",
         "title": "TABATOO GPS – Info",
         "order": 4
       },
