@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-en",
-    "currentPage": "features.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -20,7 +20,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-transparent-128x128.png",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146428403-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-146428403-1');\r\n</script>",
-    "siteUrl": "https://www.tabatoo-gps.com",
+    "siteUrl": "https://en.tabatoo-gps.com",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /administrator/\nDisallow: /bin/\nDisallow: /cache/\nDisallow: /cli/\nDisallow: /components/\nDisallow: /includes/\nDisallow: /installation/\nDisallow: /language/\nDisallow: /layouts/\nDisallow: /libraries/\nDisallow: /logs/\nDisallow: /modules/\nDisallow: /plugins/\nDisallow: /support/\nDisallow: /tmp/\nUser-agent: ClearWebStats\nDisallow: /\nUser-agent: CuteStat\nDisallow: /",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
