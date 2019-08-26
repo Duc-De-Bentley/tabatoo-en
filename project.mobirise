@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-en",
-    "currentPage": "features.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -183,7 +183,7 @@
     "features.html": {
       "settings": {
         "title": "TABATOO GPS - Features",
-        "meta_descr": "Track, manage and measure your fleet with the most advanced vehicle tracking solution for your business in Mauritania.",
+        "meta_descr": "TABATOO GPS SOLUTIONS has already positioned itself as the Mauritanian leading GPS tracking solutions firm and is already linked to the implementation of GPS trackers for many of the Mauritanian Businesses.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -272,7 +272,7 @@
                 "showTitle": true,
                 "title": "Mobile Application",
                 "contentAlign": "left",
-                "text": "Download one of our mobile GPS tracking apps.Transform your mobile (iPhone and Android) into a GPS tracker and track it online in real time. Or choose the <b>TABATOO </b>mobile client app and access all the software features on your Smartphone or Tablet.",
+                "text": "Download one of our mobile GPS tracking apps.Transform your mobile (iPhone and Android) into a GPS tracker and track it online in real time. Or choose the <b>TABATOO M</b>obile client App and access all the software features on your Smartphone or Tablet.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
@@ -308,7 +308,7 @@
                 "showTitle": true,
                 "title": "Notifications",
                 "contentAlign": "left",
-                "text": "Get instant alerts about your tracking object. Know when the object enters or exits a geo-zone. Get SOS alarms if your car has been stolen, and easily turn the engine on or off. Get notifications to your iPhone or Android devices, via e-mail, mobile app or SMS.",
+                "text": "Get instant alerts about your tracking object. Know when the object enters or exits a geo-zone. Get SOS alarms if your car has been stolen, and easily turn the engine on or off. Get notifications to your iPhone or Android devices, via e-mail, Mobile App or SMS.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
                 "overlayOpacity": "0.7"
@@ -321,7 +321,7 @@
                 "showTitle": true,
                 "title": "Cloud GPS Tracking Software",
                 "contentAlign": "left",
-                "text": "<b>TABATOO </b>GPS Software can monitor thousands of targets, and display their location on maps with crystal clear detail right down to street level in a web browser. <br>All made possible only with the power of cloud and GPS tracker. <br><br>Software is very simple, user friendly and designed to communicate with a wide variety of devices including mobile devices. It is constantly improved and updated with new features.",
+                "text": "<b>TABATOO </b>GPS tracking software can monitor thousands of targets, and display their location on maps with crystal clear detail right down to street level in a web browser. <br>All made possible only with the power of cloud and GPS tracker. <br><br>Software is very simple, user friendly and designed to communicate with a wide variety of devices including mobile devices. It is constantly improved and updated with new features.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
                 "overlayOpacity": "0.5"
@@ -407,7 +407,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "TABATOO GPS SOLUTIONS is high quality tracking and fleet management software developed by a team of professional software and hardware Mauritanian Engineers. The company is one of the leading developers of GPS tracking and fleet management software solutions in Mauritania. ",
+        "meta_descr": "TABATOO GPS SOLUTIONS is high quality tracking and fleet management software developed by a team of professional software and hardware Mauritanian Engineers. The company is one of the leading developers of GPS tracking and fleet management software solutions in Mauritania. \n\nTABATOO GPS SOLUTIONS software was developed in 2019 by a team of professional and passionate Engineers amongst them Fousseynou COULIBALY who is the current CEO and the company founder.\n\nThe name TABATOO is inspired by the Soninke language, a language commonly spoken in Mauritania. TABATOO literally means \"footprints\".",
         "title": "TABATOO GPS - About",
         "order": 2
       },
@@ -649,7 +649,7 @@
     },
     "solutions.html": {
       "settings": {
-        "meta_descr": "Track, manage and measure your fleet with the most advanced vehicle tracking solution for your business in Mauritania.\n",
+        "meta_descr": "Contact our team for an immediate consultation and let us show you how TABATOO GPS SOLUTIONS can provide the dedicated tracking solutions you need today.\n",
         "title": "TABATOO GPS - Solutions",
         "order": 1
       },
