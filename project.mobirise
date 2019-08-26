@@ -6,12 +6,15 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#252525",
+        "#222222"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 63,
+    "uniqCompNum": 65,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-transparent-128x128.png",
@@ -24,7 +27,7 @@
       "settings": {
         "main": true,
         "title": "TABATOO GPS - Home",
-        "meta_descr": "",
+        "meta_descr": "Track, manage and measure your fleet with the most advanced vehicle GPS tracking solution for your business in Mauritania.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -131,14 +134,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-265x59.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
               "link": "about.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -147,8 +149,8 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>\nPhone: +222 26 20 78 25<br>Monday - Saturday 09:30 – 17:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Phone: +222 38 23 98 92</li><li>Monday - Saturday 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -181,7 +183,7 @@
     "features.html": {
       "settings": {
         "title": "TABATOO GPS - Features",
-        "meta_descr": "",
+        "meta_descr": "Track, manage and measure your fleet with the most advanced vehicle tracking solution for your business in Mauritania.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -258,7 +260,7 @@
                 "showTitle": true,
                 "title": "Real Time Tracking",
                 "contentAlign": "left",
-                "text": "Track the location of your objects (vehicles, people, phones, bikes, animals) online in real-time. View additional information about the tracking objects, including its speed, exact address, fuel consumption and travel history.",
+                "text": "Track the location of your objects (vehicles, people, phones, bikes, animals) online in real-time. View additional information about the tracking object, including its speed, exact address, fuel consumption and travel history.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
@@ -270,7 +272,7 @@
                 "showTitle": true,
                 "title": "Mobile Application",
                 "contentAlign": "left",
-                "text": "Download one of our mobile GPS tracking apps.Transform your mobile (iPhone and Android) into a GPS tracker and track it online in real time. Or choose the TABATOO mobile client app and access all the software features on your Smartphone or Tablet.",
+                "text": "Download one of our mobile GPS tracking apps.Transform your mobile (iPhone and Android) into a GPS tracker and track it online in real time. Or choose the <b>TABATOO </b>mobile client app and access all the software features on your Smartphone or Tablet.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
@@ -319,7 +321,7 @@
                 "showTitle": true,
                 "title": "Cloud GPS Tracking Software",
                 "contentAlign": "left",
-                "text": "TABATOO GPS Software can monitor thousands of targets, and display their location on maps with crystal clear detail right down to street level in a web browser. <br>All made possible only with the power of cloud and GPS tracker. <br><br>Software is very simple, user friendly and designed to communicate with a wide variety of devices including mobile devices. It is constantly improved and updated with new features.",
+                "text": "<b>TABATOO </b>GPS Software can monitor thousands of targets, and display their location on maps with crystal clear detail right down to street level in a web browser. <br>All made possible only with the power of cloud and GPS tracker. <br><br>Software is very simple, user friendly and designed to communicate with a wide variety of devices including mobile devices. It is constantly improved and updated with new features.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
                 "overlayOpacity": "0.5"
@@ -356,7 +358,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-265x59.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -372,8 +374,8 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>\nPhone: +222 26 20 78 25<br>Monday - Saturday 09:30 – 17:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Phone: +222 38 23 98 92</li><li>Monday - Saturday 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -405,7 +407,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "TABATOO GPS SOLUTIONS is high quality tracking and fleet management software developed by a team of professional software and hardware Mauritanian Engineers. The company is one of the leading developers of GPS tracking and fleet management software solutions in Mauritania. ",
         "title": "TABATOO GPS - About",
         "order": 2
       },
@@ -494,6 +496,43 @@
           "_anchor": "header4-j"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#efefef"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#252525",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABOUT US",
+          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including its speed, exact location, fuel consumption and travel history.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1r"
+        },
+        {
           "_params": {
             "showMeta": false
           },
@@ -506,7 +545,7 @@
           "_anchor": "header3-1m"
         },
         {
-          "text": "<p><b>TABATOO GPS SOLUTIONS</b> is high quality tracking and fleet management software developed by a team of professional software and hardware engineers. As one of the leading developers of GPS tracking and fleet management software solutions in Mauritania, <b>TABATOO GPS SOLUTIONS</b> software was developed in 2019 by a team of professional engineers. The company was founded by the current CEO Fousseynou COULIBALY.</p><p><b>TABATOO GPS SOLUTIONS</b> has already positioned itself as the Mauritanian leading GPS  tracking solutions firm and is already linked to the implementation of GPS trackers for many of the Mauritanian Businesses.</p><p>Contact our team for an immediate consultation and let us show you how <b>TABATOO GPS SOLUTIONS</b> can provide the dedicated tracking solutions you need today.</p>",
+          "text": "<p><b>TABATOO GPS SOLUTIONS</b> is high quality tracking and fleet management software developed by a team of professional software and hardware <b>Mauritanian </b>Engineers. The company is one of the leading developers of GPS tracking and fleet management software solutions in <b>Mauritania.</b>&nbsp;</p><p><b>TABATOO GPS SOLUTIONS</b> software was developed in 2019 by a team of professional and passionate Engineers amongst them <b>Fousseynou COULIBALY</b> who is the current CEO and the company founder.</p><p>The name <b>TABATOO </b>is inspired by the <b>Soninke </b>language, a language commonly spoken in <b>Mauritania</b>. <b>TABATOO</b> literally means \"footprints\".</p><p><b>TABATOO GPS SOLUTIONS</b> has already positioned itself as the <b>Mauritanian </b>leading GPS  tracking solutions firm and is already linked to the implementation of GPS trackers for many of the <b>Mauritanian </b>Businesses.</p><p>Contact our team for an immediate consultation and let us show you how <b>TABATOO GPS SOLUTIONS</b> can provide the dedicated tracking solutions you need today.</p>",
           "_tags": [
             "Theme"
           ],
@@ -518,6 +557,33 @@
               "font-size": "16px"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1s"
         },
         {
           "_params": {
@@ -534,7 +600,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-265x59.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -550,8 +616,8 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>\nPhone: +222 26 20 78 25<br>Monday - Saturday 09:30 – 17:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Phone: +222 38 23 98 92</li><li>Monday - Saturday 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -583,7 +649,7 @@
     },
     "solutions.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "Track, manage and measure your fleet with the most advanced vehicle tracking solution for your business in Mauritania.\n",
         "title": "TABATOO GPS - Solutions",
         "order": 1
       },
@@ -646,12 +712,13 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 3,
@@ -659,7 +726,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#252525",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -668,8 +735,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CAR RENT BUSINESS",
-          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including its speed, exact location, fuel consumption and travel history.",
+          "title": "CAR RENTAL COMPANIES",
+          "text": "Always keep your precious fleet of vehicles in your line of sight.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -680,13 +747,13 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": false,
-            "showText": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": false,
             "showArrow": false,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/automobile-car-clouds-707046-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gear-2638181.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -698,8 +765,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "CAR RENTAL BUSINESS",
+          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including their speed, exact location, fuel consumption and travel history. <br><br>Receive automated alerts when the vehicle enters or leaves marked boundaries. Get SOS alarms if it has been stolen, and easily turn the engine on or off. Get notifications to your iPhone or Android devices, via e-mail, mobile app or SMS.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -711,14 +778,15 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+              "color": "#7c706b"
             },
             ".mbr-article": {
-              "color": "#1abc9c"
+              "color": "#7c706b",
+              "font-size": "20px"
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "paddingTop": 2,
@@ -727,44 +795,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including their speed, exact location, fuel consumption and travel history.&nbsp;Receive automated alerts when the vehicle enters or leaves marked boundaries. Get SOS alarms if it has been stolen, and easily turn the engine on or off. Get notifications to your iPhone or Android devices, via e-mail, mobile app or SMS.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-19"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -774,7 +805,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LOGISTICS &amp; DELIVERY - CONSTRUCTION",
-          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including its speed, exact location, fuel consumption and travel history.",
+          "text": "Vehicle tracking generates tons of valuable data, our data analytics gives you the advantage to boost your business with the right decisions, optimize operations and get more jobs done.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -794,26 +825,15 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/download-semi-truck-baackground-free-1890x1024.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": true,
                 "title": "Logistics &amp; Delivery",
                 "contentAlign": "right",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/drive-driver-engine-188679-2000x1333.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "title": "Construction",
-                "contentAlign": "right",
-                "text": "Make sure your construction materials are safe and on-site in time",
+                "text": "Share your live vehicle positions or visited zones to your customers. Make sure your construction materials are safe and on-site in time. Reduce vehicle maintenance by recognizing reckless drivers. Save on fuel with real-time vehicle tracking and delivery optimization.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "overlay": true
               }
             ]
           },
@@ -828,21 +848,22 @@
               "text-align": "left"
             },
             "H1": {
-              "text-align": "right"
+              "text-align": "left"
             }
           }
         },
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+              "color": "#7c706b"
             },
             ".mbr-article": {
-              "color": "#1abc9c"
+              "color": "#7c706b",
+              "font-size": "20px"
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "paddingTop": 2,
@@ -851,44 +872,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "Share your live vehicle positions or visited zones to your customers. Make sure your construction materials are safe and on-site in time. Reduce vehicle maintenance by recognizing reckless drivers.&nbsp;Save on fuel with real-time vehicle tracking and delivery optimization. Vehicle tracking generates tons of valuable data, our data analytics gives you the advantage to boost your business with the right decisions, optimize operations and get more jobs done.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1e"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -898,7 +882,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PASSANGERS TRANSPORTATION",
-          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including its speed, exact location, fuel consumption and travel history.",
+          "text": "As a passenger, you face many dangers on the road. GPS vehicle trackers are the ideal solution to keep yourself and your loved ones safe from those hazards. This is why TABATOO supplies to its customers one of the best GPS tracking solutions.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -918,25 +902,26 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/images-toyota-hilux-2013-1-1024x768-1024x768.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
+                "showText": true,
+                "showTitle": true,
+                "title": "Off Raod",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "View additional information about your vehicles, including their speed, exact location, fuel consumption and travel history. Reduce vehicle maintenance by recognizing reckless drivers. You can use <b>TABATOO GPS SOLUTIONS</b> to monitor and detect out of hours use or unauthorized use.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/images-toyota-hiace-2013-1-1280x960-1280x960.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Bus Transportation",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showText": true,
+                "showTitle": true,
+                "title": "On Road",
+                "contentAlign": "left",
+                "text": "Track the location of your vehicles online in real-time. Reduce Fuel costs and save money by addressing excessive vehicle idling issues by automated alerts and reports. Receive automated alerts when the object enters or leaves geographic boundaries around areas that have specific interest for you.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
               }
             ]
           },
@@ -948,46 +933,12 @@
           "_anchor": "slider-1f",
           "_styles": {
             "H1": {
-              "text-align": "center"
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#1abc9c"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "Track the location of your vehicles online in real-time. Reduce Fuel costs and save money by addressing excessive vehicle idling issues by automated alerts and reports.&nbsp;Receive automated alerts when the object enters or leaves geographic boundaries around areas that have specific interest for you. View additional information about your vehicles, including their speed, exact location, fuel consumption and travel history. Reduce vehicle maintenance by recognizing reckless drivers. You can use TABATOO GPS SOLUTIONS to monitor and detect out of hours use or unauthorized use.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1h"
         },
         {
           "_styles": {
@@ -995,12 +946,13 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 3,
@@ -1018,7 +970,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CAR INSURANCE BUSINESS",
-          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including its speed, exact location, fuel consumption and travel history.",
+          "text": "Offer to each of your customers a personalized car insurance that suits his needs.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -1048,7 +1000,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CAR INSURANCE",
-          "text": "The TABATOO GPS SOLUTION tracker features crash detection, providing business managers with information on accidents.",
+          "text": "The <b>TABATOO </b>tracker features crash detection, providing business managers with information on accidents.&nbsp;<b>TABATOO </b>tracker measures various aspects of how, when and where you drive. This data can be used to calculate a personalised renewal quote, or in services like the Accident Alert and Theft Recovery.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -1066,43 +1018,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#1abc9c"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "TABATOO GPS SOLUTIONS tracker measures various aspects of how, when and where you drive. This data can be used to calculate a personalised renewal quote, or in services like the Accident Alert and Theft Recovery.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1q"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "2",
@@ -1117,7 +1032,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-265x59.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1132,8 +1047,8 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>BP3698 - Nouakchott - Mauritania",
-          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: support@tabatoo-gps.com<br>\nPhone: +222 38 16 46 15<br>Monday - Saturday 08:00 – 18:00",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: sales@tabatoo-gps.com\n</li><li>Phone: +222 38 16 46 15</li><li>Monday - Saturday 08:00 – 18:00</li></ul>",
+          "text2": "<strong>SUPPORT CONTACTS</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>\nPhone: +222 26 20 78 25<br>Monday - Saturday 09:30 – 17:00",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SALES CONTACTS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Phone: +222 38 23 98 92</li><li>Monday - Saturday 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
