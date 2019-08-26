@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-en",
-    "currentPage": "about.html",
+    "currentPage": "features.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -288,8 +288,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ezgif.com-video-to-gif-5.gif",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/big-market-google-maps-1.png",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -302,7 +302,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/android-android-phone-cell-phone-404280-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
